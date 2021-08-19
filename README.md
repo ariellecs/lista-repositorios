@@ -1,5 +1,7 @@
-<p>Prática utilizando REACT para criar uma página web, na qual dado um nome de usuário GitHub, é exibida uma lista com os nomes de cada um dos seus repositórios.</p><br>
+Prática utilizando REACT para criar uma página web, na qual dado um nome de usuário GitHub, é exibida uma lista com os nomes de cada um dos seus repositórios.
 
-<p>Recomendo o uso do [Visual Studio Code](https://code.visualstudio.com) para codar.</p><br>
-<p>Inicie o terminal e utilize o comando **npm start**, caso não possua a NPM: **npm install -g npm** (copie e cole na linha de comando do seu prompt).</p><br>
-<p>Se não possui o [REACT](https://pt-br.reactjs.org)</p><br>
+Recomendo o uso do [Visual Studio Code](https://code.visualstudio.com) para codar.
+
+Inicie o terminal e utilize o comando **npm start**, caso não possua a NPM: **npm install -g npm** (copie e cole na linha de comando do seu prompt).
+
+Se não possui o [REACT](https://pt-br.reactjs.org)
